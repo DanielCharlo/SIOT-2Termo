@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "*.embeddedhtml": "html",
+        "Codigo.C": "cpp",
+        "Codigo1.C": "cpp",
+        "Codigo2.C": "cpp"
+    }
+}
